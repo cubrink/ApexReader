@@ -55,4 +55,4 @@ Which returns the output
  'squad_kills': '26'}
 >>> 
 ```
- We can see the screenshot isn't read *perfectly* but it is *very* close. Any and all complaints in that sector can be directed towards Google's [Tesseract OCR](https://opensource.google/projects/tesseract). 
+ We can see the screenshot isn't read *perfectly* but it is *very* close, too which we can thank Google's [Tesseract OCR](https://opensource.google/projects/tesseract).
